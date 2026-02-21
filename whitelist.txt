@@ -1,0 +1,26 @@
+# --- Microsoft Autopilot / Intune ---
+(\.|^)manage\.microsoft\.com$
+(\.|^)microsoftonline\.com$
+(\.|^)microsoftonline-p\.com$
+(\.|^)msftauth\.net$
+(\.|^)msauth\.net$
+(\.|^)delivery\.mp\.microsoft\.com$
+(\.|^)windowsupdate\.com$
+(\.|^)update\.microsoft\.com$
+enterpriseenrollment.manage.microsoft.com
+device.login.microsoftonline.com
+
+# --- CrowdStrike Falcon ---
+(\.|^)crowdstrike\.com$
+(\.|^)falcon\.crowdstrike\.com$
+ts01-cap.cloudstrike.com
+(\.|^)digicert\.com$
+
+# --- Tanium ---
+(\.|^)tanium\.com$
+(\.|^)cloud\.tanium\.com$
+content.tanium.com
+
+# --- General Dependencies (Certs/CRL) ---
+(\.|^)globalsign\.com$
+(\.|^)digicert\.com$
